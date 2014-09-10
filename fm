@@ -1,0 +1,66 @@
+[33mcommit a75b3c921d9f6932c846694ed5b0dcf3a6ac375a[m
+Author: Mostafa Younis <darroosh2@gmail.com>
+Date:   Tue Sep 9 18:09:25 2014 -0700
+
+    dd
+
+[1mdiff --git a/testdiff.php b/testdiff.php[m
+[1mindex 56f1bb3..fe7a252 100644[m
+[1m--- a/testdiff.php[m
+[1m+++ b/testdiff.php[m
+[36m@@ -4,4 +4,6 @@[m
+ echo 1;[m
+ [m
+ echo 2;[m
+[32m+[m
+[32m+[m[32mecho 4;[m
+ ?>[m
+\ No newline at end of file[m
+
+[33mcommit 0764623a0fd7859d89cf23de30e74b6bf3eef5d7[m
+Author: Mostafa Younis <darroosh2@gmail.com>
+Date:   Tue Sep 9 18:05:57 2014 -0700
+
+    nn
+
+[1mdiff --git a/testdiff.php b/testdiff.php[m
+[1mindex 91f60b1..56f1bb3 100644[m
+[1m--- a/testdiff.php[m
+[1m+++ b/testdiff.php[m
+[36m@@ -2,4 +2,6 @@[m
+ [m
+ [m
+ echo 1;[m
+[32m+[m
+[32m+[m[32mecho 2;[m
+ ?>[m
+\ No newline at end of file[m
+
+[33mcommit 14e717089baf21bc5720be3706815f4b53c74f42[m
+Author: Mostafa Younis <darroosh2@gmail.com>
+Date:   Tue Sep 9 18:01:56 2014 -0700
+
+    d
+
+[1mdiff --git a/testdiff.php b/testdiff.php[m
+[1mnew file mode 100644[m
+[1mindex 0000000..91f60b1[m
+[1m--- /dev/null[m
+[1m+++ b/testdiff.php[m
+[36m@@ -0,0 +1,5 @@[m
+[32m+[m[32m<?php[m[41m [m
+[32m+[m
+[32m+[m
+[32m+[m[32mecho 1;[m
+[32m+[m[32m?>[m
+\ No newline at end of file[m
+
+[33mcommit d82498c6863637f50359030e2ee19191a833f59e[m
+Author: Mostafa Younis <darroosh2@gmail.com>
+Date:   Tue Sep 9 17:56:58 2014 -0700
+
+    mostafa
+
+[1mdiff --git a/1.php b/1.php[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
